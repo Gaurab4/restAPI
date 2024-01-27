@@ -1,1 +1,1 @@
-<h1>Learing making restAPI using node js, express and postgreSQL</h1>
+<h1>I am learning how to create a REST API using Node.js, Express, and PostgreSQL.</h1>
